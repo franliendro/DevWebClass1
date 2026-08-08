@@ -1,0 +1,13 @@
+.App {
+  font-family: system-ui, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.tarjeta {
+  padding: 1rem;
+  border: 1px solid hsl(0, 0%, 80%);
+  margin: 1rem;
+  border-radius: 10px;
+}
