@@ -1,5 +1,5 @@
 # DevWebClass1
-Justificar asistencia actividad 1
+Justificar asistencia
 
 
 Parte 1
@@ -7,6 +7,7 @@ Actividad 1.1
 
 a_ $ node -v
 v24.18.0
+
 b_ $ npm -v
 11.16.0
 
