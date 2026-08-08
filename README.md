@@ -11,6 +11,7 @@ b_ $ npm -v
 11.16.0
 
 Parte 2
+
 src/App.jsx Es el componente principal de nuestro proyecto de react, aca es donde vamos a ir creando el componente principal
 usando otros componentes mas chicos y mas elementos, es lo que el usuario va a ver principalmente.
 
