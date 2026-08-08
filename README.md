@@ -12,7 +12,6 @@ b_ $ npm -v
 
 Parte 2
 src/App.jsx Es el componente principal de nuestro proyecto de react, aca es donde vamos a ir creando el componente principal
-
 usando otros componentes mas chicos y mas elementos, es lo que el usuario va a ver principalmente.
 
 src/main.jsx Es un javascript de react que se encarga de agarrar el doom y cargar el componente App para renderizarlo
